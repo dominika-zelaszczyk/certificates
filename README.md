@@ -13,8 +13,6 @@ A collection of my certificates from Coursera and Codecademy.
   * [Advanced Learning Algorithms](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Advanced%20Learning%20Algorithms.pdf)
   * [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning.pdf)
 
-### Data Science
-
 * [Python for Beginners - Data Structures](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Python%20for%20Beginners%20-%20Data%20Structures.pdf)
 * [Python for Beginners - Variables and Strings](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Python%20for%20Beginners%20-%20Variables%20and%20Strings.pdf)
 * [Python for Data Visualization - Matplotlib & Seaborn (Enhanced)](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Python%20for%20Data%20Visualization%20-%20Matplotlib%20%26%20Seaborn%20(Enhanced).pdf)
@@ -27,4 +25,4 @@ A collection of my certificates from Coursera and Codecademy.
 * [Titanic Survival Prediction Using Machine Learning](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Titanic%20Survival%20Prediction%20Using%20Machine%20Learning.pdf)
 * [Fake News Detection with Machine Learning](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Fake%20News%20Detection%20with%20Machine%20Learning.pdf)
 
-Contact me at dominika.zelaszczyk@gmail.com(mailto:dominika.zelaszczyk@gmail.com) to talk about my certificates, work opportunities, or collaborations.
+Contact me at [dominika.zelaszczyk@gmail.com](mailto:dominika.zelaszczyk@gmail.com) to talk about my certificates, work opportunities, or collaborations.
