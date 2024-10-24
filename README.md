@@ -13,7 +13,7 @@ A collection of my certificates from Coursera and Codecademy.
   * [Advanced Learning Algorithms](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Advanced%20Learning%20Algorithms.pdf)
   * [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning.pdf)
 
-### Data Analysis
+### Data Science
 
 * [Python for Beginners - Data Structures](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Python%20for%20Beginners%20-%20Data%20Structures.pdf)
 * [Python for Beginners - Variables and Strings](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Python%20for%20Beginners%20-%20Variables%20and%20Strings.pdf)
