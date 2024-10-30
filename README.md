@@ -24,5 +24,6 @@ A collection of my certificates from Coursera and Codecademy.
 * [Diabetes Disease Detection with XG-Boost and Neural Networks](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Diabetes%20Disease%20Detection%20with%20XG-Boost%20and%20Neural%20Networks.pdf)
 * [Titanic Survival Prediction Using Machine Learning](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Titanic%20Survival%20Prediction%20Using%20Machine%20Learning.pdf)
 * [Fake News Detection with Machine Learning](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Fake%20News%20Detection%20with%20Machine%20Learning.pdf)
+* [Basic Image Classification with TensorFlow](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Basic%20Image%20Classification%20with%20TensorFlow.pdf)
 
 Contact me at [dominika.zelaszczyk@gmail.com](mailto:dominika.zelaszczyk@gmail.com) to talk about my certificates, work opportunities, or collaborations.
