@@ -25,5 +25,8 @@ A collection of my certificates from Coursera and Codecademy.
 * [Titanic Survival Prediction Using Machine Learning](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Titanic%20Survival%20Prediction%20Using%20Machine%20Learning.pdf)
 * [Fake News Detection with Machine Learning](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Fake%20News%20Detection%20with%20Machine%20Learning.pdf)
 * [Basic Image Classification with TensorFlow](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Basic%20Image%20Classification%20with%20TensorFlow.pdf)
+* [Interpretable Machine Learning Applications: Part 1](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Interpretable%20Machine%20Learning%20Applications%20Part%201.pdf)
+* [Interpretable Machine Learning Applications: Part 2](https://github.com/dominika-zelaszczyk/certificates/blob/main/Coursera/Interpretable%20Machine%20Learning%20Applications%20Part%202.pdf)
+
 
 Contact me at [dominika.zelaszczyk@gmail.com](mailto:dominika.zelaszczyk@gmail.com) to talk about my certificates, work opportunities, or collaborations.
